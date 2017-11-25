@@ -1,0 +1,43 @@
+/** Buda benim css **/
+
+.ew-search-bg{
+    background-image: url(../img/headerbg.jpg);
+}
+
+.ew-header-text{
+    padding-top: 10px;
+    padding-bottom: 50px; 
+    color: white;
+    font-size:40pt;
+}
+
+.ew-page-header-text{
+    padding-bottom: 10px; 
+    color: white;
+    font-size:20pt;
+}
+
+.ew-foot{
+    background-color: #141414;
+    color: #fff;
+}
+
+.ew-font1{
+    font-family: 'Muli', sans-serif;
+}
+
+.ew-dacopy{
+    letter-spacing: 2px;
+    padding: 10px;
+    color: #9b9b9b;
+}
+
+.ew-page-img-byt{
+    width: 442px;
+    height: 248px;
+}
+
+.ew-page-fiyat{
+    color: #5c0000;
+    font-size: 25px;
+}
